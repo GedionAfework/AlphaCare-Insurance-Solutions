@@ -103,6 +103,10 @@ AlphaCare-Insurance-Solutions/
 - **Task 2: Data Pipeline with DVC**:
   - Initialized DVC and configured local storage.
   - Tracked `MachineLearningRating_v3.txt` with DVC for versioning.
+- **Task 3: A/B Hypothesis Testing**:
+  - Conducted statistical tests to evaluate risk and margin differences across provinces, zip codes, and genders.
+  - Generated visualizations and a report summarizing findings.
+  - Committed results to `notebooks/hypothesis_testing.ipynb` and `docs/hypothesis_report.md`.
 
 ## Key Insights from EDA
 
