@@ -1,0 +1,5 @@
+outs:
+- md5: 43d713032a9c64ad226510fa8695a00d
+  size: 21455
+  hash: md5
+  path: test_rmse_comparison.png
