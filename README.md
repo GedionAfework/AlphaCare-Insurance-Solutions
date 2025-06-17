@@ -106,7 +106,11 @@ AlphaCare-Insurance-Solutions/
 - **Task 3: A/B Hypothesis Testing**:
   - Conducted statistical tests to evaluate risk and margin differences across provinces, zip codes, and genders.
   - Generated visualizations and a report summarizing findings.
-  - Committed results to `notebooks/hypothesis_testing.ipynb` and `docs/hypothesis_report.md`.
+  - Committed results to `notebooks/hypothesis_testing.ipynb`.
+- **Task 4: Predictive Modeling**:
+  - Built models to predict claim severity, premium, and claim probability.
+  - Evaluated models and analyzed feature importance using SHAP`.
+  - Documented findings in `notebooks/modeling.ipynb`.
 
 ## Key Insights from EDA
 
